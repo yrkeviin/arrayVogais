@@ -1,10 +1,8 @@
-let texto = "Thiago";
+let texto = "Ontem eu dormi muito mal";
 
 let textoMinusculo = texto.toLowerCase();
 
 let separar = textoMinusculo.split("");
-
-console.log(separar);
 
 let vogais = separar.filter((separar) => ["a", "e", "i", "o", "u"].includes(separar));
 
