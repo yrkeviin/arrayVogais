@@ -1,0 +1,9 @@
+arrayVogal
+
+1- ler texto
+2- transformar todas as caractéres em caractéres minúsculas
+3- separar cada letra do texto utilizando ""
+4- filtrar as caractéres "a", "e", "i", "o", "u" (vogais) que estão incluídas dentro da let separar
+5- exiba o texto mínusculo
+6- exiba quais vogais tem, separadas por ", "
+7- exiba número de vogais
